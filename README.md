@@ -6,7 +6,7 @@ from streamlit_lottie import st_lottie
 
 
 
-NEW UPDATES 
+
 st.set_page_config(page_title="HELLO WORLD" , page_icon="ChatGPT Image Mar 31, 2025, 04_09_22 PM.png",layout="wide")
 #-----ANIMATION-----
 
